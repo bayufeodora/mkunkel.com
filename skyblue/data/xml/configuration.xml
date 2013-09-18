@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<obj type="configuration">
+<item id="1"
+      site_name="Mike Kunkel"
+      contact_name="Mike Kunkel"
+      contact_title=""
+      contact_address=""
+      contact_city=""
+      contact_state=""
+      contact_zip=""
+      contact_email=""
+      contact_phone=""
+      contact_fax=""
+      contact_address_2=""
+      site_slogan=""
+      site_url="http://www.mkunkel.com/skyblue/"
+      site_editor="wymeditor"
+      use_cache="0"
+      session_timeout="60">
+</item>
+
+	</obj>
+</root>
